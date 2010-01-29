@@ -18,7 +18,7 @@ sub _config {
         screen => {
             log_to   => "STDERR",
             maxlevel => "debug",
-            minlevel => "warning"
+            minlevel => "error"
         }
     };
 }
