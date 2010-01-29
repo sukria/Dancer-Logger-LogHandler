@@ -1,11 +1,14 @@
 package Dancer::Logger::LogHandler;
+
 use strict;
 use warnings;
 use base 'Dancer::Logger::Abstract';
 
 use Log::Handler;
-
 use Dancer::Config 'setting';
+
+use vars '$VERSION';
+$VERSION = '0.1';
 
 my $_logger;
 
