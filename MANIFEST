@@ -2,7 +2,7 @@ Changes
 ignore.txt
 lib/Dancer/Logger/LogHandler.pm
 Makefile.PL
-MANIFEST
+MANIFEST			This list of files
 README
 t/00-load.t
 t/01-log.t
