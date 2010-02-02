@@ -8,7 +8,7 @@ use Log::Handler;
 use Dancer::Config 'setting';
 
 use vars '$VERSION';
-$VERSION = '0.1';
+$VERSION = '0.01';
 
 my $_logger;
 
